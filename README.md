@@ -50,3 +50,10 @@ Designed and built the full automation workflow, including the Telegram trigger,
 ## Use Case
 
 This workflow was created for Colors by Mor, a beauty and nail business, to simplify content creation and automate blog publishing.
+
+## ScreenShot
+<img width="1802" height="494" alt="image" src="https://github.com/user-attachments/assets/75883300-92c4-4141-a829-2d5fca95faa2" />
+<img width="432" height="590" alt="image" src="https://github.com/user-attachments/assets/b26996cb-9178-4ff3-bf17-b5e6e4935f08" />
+<img width="789" height="1378" alt="image" src="https://github.com/user-attachments/assets/17a74bbd-1e2e-41fc-bfa9-1b125a3de5eb" />
+<img width="452" height="1193" alt="image" src="https://github.com/user-attachments/assets/131ed6b3-4784-4680-ae0a-bcea00b17145" />
+
